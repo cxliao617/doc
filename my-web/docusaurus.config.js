@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/doc/', // same as repo name
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/cx617_logo.ico',
 
   trailingSlash: false,
 
@@ -29,7 +29,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
