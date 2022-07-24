@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_web=self.webpackChunkmy_web||[]).push([[285],{3094:e=>{e.exports=JSON.parse('{"title":"LeetCode","slug":"/category/leetcode","permalink":"/doc/docs/category/leetcode","navigation":{"previous":{"title":"Markdown","permalink":"/doc/docs/tool_note/markdown"},"next":{"title":"Python Node","permalink":"/doc/docs/leetcode/python_note"}}}')}}]);
