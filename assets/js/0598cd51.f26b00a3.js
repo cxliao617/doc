@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_web=self.webpackChunkmy_web||[]).push([[865],{7150:e=>{e.exports=JSON.parse('{"title":"React","description":"note about React","slug":"/category/react","permalink":"/doc/docs/category/react","navigation":{"next":{"title":"Deploy React to Git pages","permalink":"/doc/docs/React/deploy_react_git_pages"}}}')}}]);
