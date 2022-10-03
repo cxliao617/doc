@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_web=self.webpackChunkmy_web||[]).push([[142],{6955:e=>{e.exports=JSON.parse('{"title":"Note","description":"note about git!","slug":"/category/note","permalink":"/doc/docs/category/note","navigation":{"previous":{"title":"Preview","permalink":"/doc/docs/intro"},"next":{"title":"Markdown","permalink":"/doc/docs/tool_note/markdown"}}}')}}]);
